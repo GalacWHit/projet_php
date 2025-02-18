@@ -86,7 +86,7 @@ L'implémentation se concentre sur la fourniture d'une façade RESTful par-dessu
 
 8. Tutorial OpenClassrooms sur la création d'API REST
    - https://openclassrooms.com/fr/courses/6573181-adoptez-les-api-rest-pour-vos-projets-web
-
+   - https://itds.fr/creer-une-api-rest-en-php/
 9. Documentation sur les standards PSR (PHP Standards Recommendations)
    - https://www.php-fig.org/psr/
 
