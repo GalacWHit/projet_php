@@ -58,8 +58,6 @@ L'implémentation se concentre sur la fourniture d'une façade RESTful par-dessu
 
 # Projet d'API RESTful pour les Problèmes Zabbix
 
-[... autres sections ...]
-
 ## Références
 
 1. Documentation officielle PHP sur les en-têtes HTTP et la gestion des requêtes
