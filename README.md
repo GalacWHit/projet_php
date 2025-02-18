@@ -55,3 +55,50 @@ L'implémentation se concentre sur la fourniture d'une façade RESTful par-dessu
 2. Spécification HAL (https://stateless.group/hal_specification.html)
 3. REST in Practice (Livre)
 4. Spécification HTTP/1.1 (RFC 7231)
+
+# Projet d'API RESTful pour les Problèmes Zabbix
+
+[... autres sections ...]
+
+## Références
+
+1. Documentation officielle PHP sur les en-têtes HTTP et la gestion des requêtes
+   - https://www.php.net/manual/fr/function.header.php
+   - https://www.php.net/manual/fr/reserved.variables.server.php
+
+2. Spécification HAL (Hypertext Application Language)
+   - https://stateless.group/hal_specification.html
+   - Guide d'implémentation : https://stateless.co/hal_specification.html
+
+3. Tutoriel REST API Best Practices de Philippe Herlin
+   - https://blog.octo.com/designer-une-api-rest/
+
+4. Documentation PHP sur le traitement des fichiers JSON
+   - https://www.php.net/manual/fr/book.json.php
+   - https://www.php.net/manual/fr/function.json-encode.php
+
+5. Guide sur la mise en œuvre des codes de statut HTTP
+   - https://developer.mozilla.org/fr/docs/Web/HTTP/Status
+
+6. Documentation de cURL en PHP pour les requêtes HTTP
+   - https://www.php.net/manual/fr/book.curl.php
+
+7. Guide de bonnes pratiques sur la journalisation en PHP
+   - https://www.loggly.com/ultimate-guide/php-logging-basics/
+
+8. Tutorial OpenClassrooms sur la création d'API REST
+   - https://openclassrooms.com/fr/courses/6573181-adoptez-les-api-rest-pour-vos-projets-web
+
+9. Documentation sur les standards PSR (PHP Standards Recommendations)
+   - https://www.php-fig.org/psr/
+
+10. Tutoriel sur l'architecture REST en français
+    - https://openclassrooms.com/fr/courses/6573181-adoptez-les-api-rest-pour-vos-projets-web
+
+Ces ressources m'ont aidé à :
+- Comprendre et implémenter correctement le format HAL
+- Gérer proprement les requêtes HTTP en PHP
+- Structurer le code selon les bonnes pratiques
+- Mettre en place la journalisation
+- Implémenter correctement les codes de statut HTTP
+- Concevoir une API REST cohérente
